@@ -71,9 +71,11 @@ The dataset contains dermoscopic images of different skin lesion categories.
 
 ---
 
-## Installation
+## Credits
+This project was originally developed as a collaborative group project.
+Special thanks to:
+- Ch. Jaswanth
+- G. Navya
+- M. Hari Sowgandhi
 
-Clone the repository:
-
-```bash
-git clone https://github.com/your-username/your-repository-name.git
+The repository has been customized and deployed by me for portfolio and learning purposes.
